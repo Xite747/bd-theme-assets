@@ -1,1 +1,1 @@
-This is just a poormans CDN for my custom betterdiscord theme assets :skull:
+This is just a poormans CDN for my personal betterdiscord theme assets :skull:
